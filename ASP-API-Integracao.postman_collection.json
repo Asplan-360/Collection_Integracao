@@ -15,7 +15,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"email\": \"EMAIL\",\r\n  \"password\": \"SENHA\",\r\n  \"CnpjFilial\":\"1231231230000112\"\r\n}\r\n",
+							"raw": "{\r\n  \"email\": \"ithealth@360.com.br\",\r\n  \"password\": \"api360#ithealth\",\r\n  \"CnpjFilial\":\"20966646000135\"\r\n}\r\n",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -134,7 +134,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nomerazao\": \"TESTE\",\r\n    \"fantasia\": \"TESTE\",\r\n    \"tipopessoa\": 1,\r\n    \"cpfcnpj\":\"123123123123123\",\r\n    \"cpfcnpjcompleto\": \"123123123123123\",\r\n    \"estrangeiro\": false,\r\n    \"codigo\": \"000001\"\r\n}",
+							"raw": "{\r\n    \"nomerazao\": \"TESTE\",\r\n    \"fantasia\": \"TESTE\",\r\n    \"tipopessoa\": 1,\r\n    \"tipo\": 1,\r\n    \"cpfcnpj\":\"123123123123123\",\r\n    \"cpfcnpjcompleto\": \"123123123123123\",\r\n    \"estrangeiro\": false,\r\n    \"codigo\": \"000001\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
